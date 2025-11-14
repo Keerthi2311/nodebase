@@ -1,5 +1,5 @@
 const Page = () => { 
-  
+  return (
   <div className="text-red-500">Welcome to the Home Page!
 
   </div>
